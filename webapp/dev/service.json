@@ -1,7 +1,8 @@
 {
-	"logon": false,
-	"host": "",
-	"port": "",
-	"https": "false",
-	"appID": ""
+	"logon": true,
+	"host": "mobile-fiori.hana.ondemand.com",
+	"port": "443",
+	"https": "true",
+	"appID": "com.wedonate.ssc.eng",
+	"network": true
 }
